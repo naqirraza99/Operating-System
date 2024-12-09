@@ -48,4 +48,15 @@ To execute the program, use the following command:
 
 **./job_monitoring**
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+---
+
+### How to Use:
+1. **Clone the repository**: You can clone this repository to your local machine using Git:
+   ```bash
+   git clone https://github.com/naqiraza99/job-monitoring-system.git
+
+
 
