@@ -39,7 +39,6 @@ This program creates two threads, each executing a job. The **job counter** is s
 
 To compile the program, use the following command:
 
-```bash
 gcc monitoring_system.c -o monitoring_system
 exit
 
