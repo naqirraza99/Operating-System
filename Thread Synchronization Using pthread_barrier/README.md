@@ -37,7 +37,6 @@ Once all threads have reached the barrier, they continue their execution. The pr
 
 To compile the program, use the following command:
 
-```bash
 gcc labtask1.c -o labtask1
 exit
  
@@ -46,7 +45,7 @@ exit
 ### Execution
 
 Run the program: After compilation, run the program:
-```bash
+
 ./labtask1
 
 ![image](https://github.com/user-attachments/assets/f384980e-94e6-4ab0-a79b-75e5776ebd6a)
