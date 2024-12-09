@@ -51,7 +51,7 @@ To execute the program, use the following command:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
----
+
 
 ### How to Use:
 1. **Clone the repository**: You can clone this repository to your local machine using Git:
