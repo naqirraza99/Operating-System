@@ -38,6 +38,7 @@ Once all threads have reached the barrier, they continue their execution. The pr
 To compile the program, use the following command:
 
 gcc labtask1.c -o labtask1
+
 ![image](https://github.com/user-attachments/assets/dc108d63-b54f-468c-a43a-b5d235de6808)
 
 ### Execution
