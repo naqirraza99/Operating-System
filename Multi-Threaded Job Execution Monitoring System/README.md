@@ -38,14 +38,14 @@ This program creates two threads, each executing a job. The **job counter** is s
 ### Compilation
 
 To compile the program, use the following command:
-```bash
-gcc job_monitoring.c -o job_monitoring
+
+**gcc job_monitoring.c -o job_monitoring**
 
 
 ### Execution
 
 To execute the program, use the following command:
-```bash
-./montoring_system
+
+**./job_monitoring**
 
 
