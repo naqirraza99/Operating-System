@@ -60,8 +60,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Author**: GIKI University Student (Name)
-- **Email**: [author@example.com](mailto:author@example.com)
+- **Author**: Syed Muhammad Naqi Raza
+- **Email**: [author@example.com](naqirazarizvi8@gmail.com)
 
 
   
