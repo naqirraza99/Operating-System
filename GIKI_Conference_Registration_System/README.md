@@ -45,3 +45,7 @@ To compile the program, use the following command:
 
 ```bash
 gcc -o conference_registration conference_registration.c -pthread
+./conference_registration
+
+![image](https://github.com/user-attachments/assets/4f34af7b-3156-4f38-a886-40fabf3b7ff9)
+
